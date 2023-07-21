@@ -26,10 +26,10 @@ Developed by: Dimitar Dimitrov, Viola Yasuda
 - Game Mechanics
   - Three main points to land on
     - Frying pan, toaster, or bucket
-  - Fuel limit, upon depletion of fuel the player loses movement control
-  - Fish explodes on high velocity collision
+  - Fuel limit, the player loses control upon reaching 0 fuel 
+  - Fish explodes on high velocity collisions
 - Interactive GUI
-  - Can be hidden or shown by pressing 'h' key
+  - Can be hidden or shown by pressing the 'h' key
   - Contains multiple sliders that update the integration values and game mechanics
 - Performance and game information (top right corner)
   - Frame rate, remaining fuel, and altitude displayed
