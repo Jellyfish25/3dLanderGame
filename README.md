@@ -37,15 +37,16 @@ Developed by: Dimitar Dimitrov, Viola Yasuda
 ## Sample Screens
 
 ### Fish Model
-![image](https://github.com/Jellyfish25/3dLanderGame/assets/73325837/39193c12-d8b8-432e-8563-d4e3b4916def)
+![image](https://github.com/Jellyfish25/3dLanderGame/assets/73325837/c7eb711b-f5fa-429e-b031-99ef81d8d13f)
+
 ### Map
-![image](https://github.com/Jellyfish25/3dLanderGame/assets/73325837/1e14b195-2e36-473e-b0f3-fd8e2f7e8c72)
+![image](https://github.com/Jellyfish25/3dLanderGame/assets/73325837/173f0d4a-f229-400b-8ee3-1d39a9bc742f)
 
 ### Landing Points
-![image](https://github.com/Jellyfish25/3dLanderGame/assets/73325837/208bdc13-c6d4-4466-b63e-d0c7decf08ba)
-![image](https://github.com/Jellyfish25/3dLanderGame/assets/73325837/c81efd08-423b-45db-82fd-6fea78a49201)
-![image](https://github.com/Jellyfish25/3dLanderGame/assets/73325837/31cae786-9e29-483f-aec0-90c0f1002930)
+![image](https://github.com/Jellyfish25/3dLanderGame/assets/73325837/edd3f5d5-ff5a-450e-917d-fc7c9494f59a)
+![image](https://github.com/Jellyfish25/3dLanderGame/assets/73325837/071049a4-527c-4204-ab51-351265b43176)
+![image](https://github.com/Jellyfish25/3dLanderGame/assets/73325837/d9c7d1fc-87f0-4019-9cc8-f45261128049)
 
 ### GUI
-![image](https://github.com/Jellyfish25/3dLanderGame/assets/73325837/a51737ee-46e5-4ab5-a979-6b086d4a2c76)
+![image](https://github.com/Jellyfish25/3dLanderGame/assets/73325837/1c8bd6b7-fc05-45f3-81d2-cb8a7cab1240)
 
