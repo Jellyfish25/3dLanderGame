@@ -1,5 +1,5 @@
 # 3dLanderGame
-## Basic 3d lander game developed using C++, OpenFrameworks, and Maya
+## Basic 3d-lander game developed using C++, OpenFrameworks, and Maya
 Version: 7/21/2023 [Google Drive (executable)](https://drive.google.com/drive/folders/1Zu19bNhaNUXjXVonGrY9SRckYmAmr3V0?usp=sharing)
 
 Developed by: Dimitar Dimitrov, Viola Yasuda
